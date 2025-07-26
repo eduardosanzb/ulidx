@@ -5,7 +5,10 @@
 
 ULID generator library, based off of the original [ulid](https://github.com/ulid/javascript) for NodeJS and the browser. ULIDs are Universally Unique Lexicographically Sortable Identifiers. This library adheres to [this specification](https://github.com/ulid/spec).
 
-> The original [ulid](https://github.com/ulid/javascript) is no longer maintained, and has several outstanding compatibility-related issues that were never addressed. This library aims to address those and remain compatible in a larger range of environments.
+> The original [ulid](https://github.com/ulid/javascript) was previously unmaintained, leading to several outstanding compatibility-related issues that were never addressed. This library, ulidx, was created to address those concerns and remain compatible in a larger range of environments.
+
+> As of recent developments, ulid has been updated and is now actively maintained. Using the [ulid/javascript](https://github.com/ulid/javascript) library is now safe. For more details, please refer to [this issue](https://github.com/perry-mitchell/ulidx/issues/48).
+
 
 ## Installation
 
